@@ -1,4 +1,4 @@
-# Project Name
+# AyurVaidya
 
 Welcome to [AyurVaidya]! This README.md file will guide you through the steps to run the project locally.
 
